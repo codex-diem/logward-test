@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/logward-test/static/css/main.124409b3.css",
+    "main.js": "/logward-test/static/js/main.76cd35f4.js",
+    "static/js/787.8f47da93.chunk.js": "/logward-test/static/js/787.8f47da93.chunk.js",
+    "index.html": "/logward-test/index.html",
+    "main.124409b3.css.map": "/logward-test/static/css/main.124409b3.css.map",
+    "main.76cd35f4.js.map": "/logward-test/static/js/main.76cd35f4.js.map",
+    "787.8f47da93.chunk.js.map": "/logward-test/static/js/787.8f47da93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.124409b3.css",
+    "static/js/main.76cd35f4.js"
+  ]
+}
