@@ -1,3 +1,7 @@
+# App Screenshots
+
+![localhost_3000_](https://github.com/codex-diem/logward-test/assets/90821753/e8975445-1055-4712-bfda-d11f1354db5c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
